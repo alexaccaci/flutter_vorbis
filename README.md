@@ -1,7 +1,12 @@
 # flutter_vorbis
 
-A new Flutter project.
+vorbis for flutter
 
+See also:
+
+https://www.xiph.org/vorbis/
+
+http://www.jcraft.com/jorbis/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
